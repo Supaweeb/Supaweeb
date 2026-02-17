@@ -5,8 +5,6 @@ Full-Stack Developer | Payment Systems | Smart Vending | CRM Platform
 
 📧 supawee.b@hotmail.com
 
-📱 +66 9 9332 2733
-
 🚀 About Me
 
 Software Engineer with 4+ years of experience in full-stack development across payment systems, smart vending machine platforms, CRM, and blockchain-based loyalty systems.
