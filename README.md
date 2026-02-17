@@ -93,5 +93,11 @@ Aug 2021 – Jul 2023
   Built CRM and reward redemption platform
   
   Implemented points redemption logic and product exchange system
+  
 
-![Vending machine](./assets/1.jpg)
+![Vending machine](./assets/2.jpg)
+![Vending machine](./assets/3.jpg)
+![Vending machine](./assets/4.jpg)
+![Vending machine](./assets/5.jpg)
+![Vending machine](./assets/6.jpg)
+![Vending machine](./assets/7.jpg)
