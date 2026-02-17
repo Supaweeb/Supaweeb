@@ -94,3 +94,4 @@ Aug 2021 – Jul 2023
   
   Implemented points redemption logic and product exchange system
 
+![Vending machine](./assets/1.jpg)
